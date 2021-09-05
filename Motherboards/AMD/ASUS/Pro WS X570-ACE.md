@@ -9,6 +9,6 @@ https://www.asus.com/Motherboards-Components/Motherboards/All-series/Pro-WS-X570
 ## Особенности
 
 - Есть встроенное удаленное управление через ASUS Contol Center Express, кривое, но жить можно. Обязательно нужно обновить прошивку
-- Не удалось заставить работать в слоте X1 сетевую плату Mellanox Connect-X 3 OCP (через переходник)
+- Не удалось заставить работать в слоте X1 сетевую плату Mellanox ConnectX-3 OCP (через переходник)
 - Не работает iBFT, HTTP Boot
 - Применение ACS-патча не требуется
