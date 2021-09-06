@@ -2,6 +2,9 @@
 
 ![pgf (1)](https://user-images.githubusercontent.com/32481693/132115561-03abcaad-c7c4-4232-8639-a6da07e2ea88.jpg)
 
+![image](https://user-images.githubusercontent.com/32481693/132152734-35d6e4e6-1769-47f2-bc81-b11b1ff724ef.png)
+
+
 https://www.supermicro.com/en/products/motherboard/C9X299-RPGF
 
 Хорошая материнская плата, в паре с 18-ядерным i9 в принципе подходит под создание сборки на 4 ВМ
